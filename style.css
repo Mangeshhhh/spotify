@@ -175,3 +175,9 @@ nav ul li{
         font-size: 0.6rem;
     }
 }
+
+@media (min-width: 300px) and (max-width: 500px){
+    .container{
+        height: 70vh;
+    }
+}
